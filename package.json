@@ -1,0 +1,29 @@
+{
+  "name": "gerber_reader",
+  "version": "1.0.0",
+  "description": "gerber support",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duckk331/gerber_reader.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "darshan shah",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/duckk331/gerber_reader/issues"
+  },
+  "homepage": "https://github.com/duckk331/gerber_reader#readme"
+}
